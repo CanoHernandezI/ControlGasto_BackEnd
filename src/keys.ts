@@ -1,9 +1,9 @@
 export default {
     database: {
-        host: 'localhost',
-        user: 'root',
-        password: '',
-        database: 'ControlGasto'
+        host: 'bamrway9w2al6p8sh5zq-mysql.services.clever-cloud.com',
+        user: 'u3dzp6qkg8aad1ul',
+        password: 'gBVXYd8l1fwRItqADagW',
+        database: 'bamrway9w2al6p8sh5zq'
     }, twitterConfig: {
         apiKey: 'kTYmehU9t2HFwAFGQJSqkApWk',
         apiSecretKey: '8vut5c6bgOTYGuNVDS23wE1UgplWOoATPofbSUHQMmFjEIBABV',
